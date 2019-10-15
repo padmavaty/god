@@ -1,0 +1,5 @@
+x=str(input("enter your product name"))
+print(x)
+y=int(input("enter price"))
+print(y)
+print("the product name is",x,"and price is",y)
